@@ -3,7 +3,7 @@
 This contains my Coding Exercise #1 output for The Blokc Internship Program. 
 
 Instruction:
-## Coding Exercise: Using any programming language, create a program that accepts an array of numbers and sorts the numbers. The program should include at least two functions called sortAscending (array input ) and sortDescending (array input). These two functions should return an array type. Note: You cannot use any built-in 
+###### Coding Exercise: Using any programming language, create a program that accepts an array of numbers and sorts the numbers. The program should include at least two functions called sortAscending (array input ) and sortDescending (array input). These two functions should return an array type. Note: You cannot use any built-in 
 
 To run the program:
 ###### For Notepad/Notepad++ users:
